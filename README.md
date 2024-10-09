@@ -3,8 +3,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/kristopherpaul/count.svg)
 ![krisbanner](https://github.com/user-attachments/assets/ff2aa7ee-ab8e-4006-8464-848a3c163f9b)
 <h3 align="center"><b>Machine Learning Engineer</b> | <b>Competitive Programmer</b> | <b>Undergraduate Researcher</b> | <b>Quant Consultant</b></h3>
-
-I'm a third-year undergraduate majoring in Computer Science and Engineering with a minor in Mathematics at the Indian Institute of Technology Gandhinagar (IIT GN). I bring a strong academic foundation, coupled with a robust research background and solid problem-solving skills.
+<br>
+I'm a third-year undergraduate majoring in Computer Science and Engineering with a minor in Mathematics at IIT, Gandhinagar. I bring a strong academic foundation, coupled with a robust research background and solid problem-solving skills.
 
 ## Background
 My journey into the world of programming began at the age of 8, and over the years, I have honed my skills in languages such as Java, C, and C++. As a testament to my dedication and skills, I became the youngest-ever finalist at the International Olympiad in Informatics Training Camp (IOITC) at the age of 13.
