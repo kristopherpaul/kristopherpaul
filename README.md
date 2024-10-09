@@ -1,4 +1,4 @@
-## Hi, I'm Kris 👋 
+## Hi, I'm Kris
 
 ![Visitor Count](https://profile-counter.glitch.me/kristopherpaul/count.svg)
 ![krisgitbanner](https://github.com/user-attachments/assets/cfd366f0-8420-4d23-92ca-d40ad23b6faa)
