@@ -1,7 +1,7 @@
 ## Hi, I'm Kris 👋 
 
 ![Visitor Count](https://profile-counter.glitch.me/kristopherpaul/count.svg)
-![krisbanner](https://github.com/user-attachments/assets/ff2aa7ee-ab8e-4006-8464-848a3c163f9b)
+![krisgitbanner](https://github.com/user-attachments/assets/cfd366f0-8420-4d23-92ca-d40ad23b6faa)
 <h3 align="center"><b>Machine Learning Engineer</b> | <b>Competitive Programmer</b> | <b>Undergraduate Researcher</b> | <b>Quant Consultant</b></h3>
 <br>
 I'm a third-year undergraduate majoring in Computer Science and Engineering with a minor in Mathematics at IIT, Gandhinagar. I bring a strong academic foundation, coupled with a robust research background and solid problem-solving skills.
