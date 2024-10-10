@@ -1,6 +1,5 @@
 ## Hi, I'm Kris
 
-![Visitor Count](https://profile-counter.glitch.me/kristopherpaul/count.svg)
 ![krisgitbanner](https://github.com/user-attachments/assets/cfd366f0-8420-4d23-92ca-d40ad23b6faa)
 <h3 align="center"><b>Machine Learning Engineer</b> | <b>Competitive Programmer</b> | <b>Undergraduate Researcher</b> | <b>Quant Consultant</b></h3>
 <br>
